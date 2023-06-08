@@ -1,0 +1,98 @@
+body {
+  background-image: radial-gradient(
+    circle farthest-corner at 10% 20%,
+    rgba(100, 43, 115, 1) 0%,
+    rgba(4, 0, 4, 1) 90%
+  );
+  color: rgb(0, 0, 0);
+  font-family: "Open Sans", sans-serif;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  width: 400px;
+  max-height: 275px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.topItem {
+  height: 100%;
+}
+
+.topItem h1 {
+  text-align: center;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: rgb(255, 255, 255);
+  border-bottom: 2px solid rgb(225, 225, 225);
+}
+
+.topItemMain {
+  display: flex;
+  flex-direction: column;
+}
+
+.Info {
+  padding-left: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0vw 0vw 4vw 0vw;
+}
+
+.Info p {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  padding: 0;
+  margin: 0;
+}
+
+.Info h4 {
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  padding: 0;
+  margin: 0;
+}
+
+#btn {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 5px 10px;
+  background-color: rgb(0, 0, 0);
+  border: 1px solid rgb(0, 0, 0);
+  outline: none;
+}
+
+#btn:hover {
+  background-color: linear-gradient(19deg, #780000, #b721ff);
+  cursor: pointer;
+}
+
+#btn:active {
+  background-color: rgb(175, 175, 175);
+}
+
+.bottomItem {
+  height: 35%;
+  position: relative;
+}
+
+.ERROR {
+  padding-top: 5px;
+}
+
+.ERROR p {
+  margin: 0;
+  font-size: 12px;
+  font-weight: bold;
+  background: lightgray;
+  padding: 2px 0px;
+  text-align: center;
+}
