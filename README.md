@@ -33,16 +33,3 @@ Here are some images of the extension:
   8. Select the extension folder and click "Open" or "Select Folder."
 
 The Social-Manager extension should now be installed and ready to use in your web browser.
-
-## License
-
-This ExtensionName extension is released under the [license name/version]. Please refer to the `LICENSE` file for more information.
-
-## Acknowledgments
-
-List any individuals, projects, or resources that deserve acknowledgment or credit for this extension.
-
----
-
-Feel free to modify this README file according to your specific extension's name, requirements, and additional information.
-
