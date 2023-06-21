@@ -18,3 +18,31 @@ Here are some images of the extension:
 <br>
 <br>
 
+### Installation
+
+  1. Clone the repository or download the Extension.
+  2. Open your preferred web browser.
+  3. Go to the browser's extension settings:
+     - For Google Chrome, navigate to `chrome://extensions`.
+     - For Mozilla Firefox, go to `about:addons`.
+     - For Microsoft Edge, visit `edge://extensions`.
+     - For Safari, access the Extensions tab in the Preferences menu.
+  4. Enable the "Developer mode" or "Enable developer tools" option.
+  5. Click on the "Load unpacked" or "Load extension" button.
+  7. Browse to the location where you cloned or extracted the ExtensionName extension.
+  8. Select the extension folder and click "Open" or "Select Folder."
+
+The Social-Manager extension should now be installed and ready to use in your web browser.
+
+## License
+
+This ExtensionName extension is released under the [license name/version]. Please refer to the `LICENSE` file for more information.
+
+## Acknowledgments
+
+List any individuals, projects, or resources that deserve acknowledgment or credit for this extension.
+
+---
+
+Feel free to modify this README file according to your specific extension's name, requirements, and additional information.
+
